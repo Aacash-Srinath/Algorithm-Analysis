@@ -1,4 +1,4 @@
-1. Create a folder and download the files: AscendingNumberGen, DescendingNumberGen, RandomNumberGen & InsertionSort_Vector.
+1. Create a folder and download the files: AscendingNumbersGen, DescendingNumbersGen, RandomNumbersGen & InsertionSort_Vector.
 
 2. Generate text files containing different sizes of ascending, descending and random numbers in an array, separately, by altering the value of 'n' in the provided python files and running in the terminal/cmd.
 
@@ -11,3 +11,5 @@
 
 
 Record the time taken along with the input size, to plot a graph of time versus input size for Insertion Sort.
+
+SampleGraphs contains sample graphs for sample inputs taken.
