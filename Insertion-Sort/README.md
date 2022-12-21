@@ -5,7 +5,7 @@
 3. Compile the C++ code in the terminal using :: g++ InsertionSort_Vector.cpp
 
 4. Use the command :: ./a.out < textfilename.txt [For Linux Terminal]
-                       \t a,out < textfilename.txt [For Windows CMD]
+                       ; a,out < textfilename.txt [For Windows CMD]
 
 5. Time Taken for the execution of the code will be displayed once Step 4 is executed.
 
