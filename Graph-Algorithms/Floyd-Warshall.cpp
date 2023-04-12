@@ -1,5 +1,4 @@
 //C++ Program to Implement Floyd Warshall Algorithm for Graphs
-// C++ Program for Floyd Warshall Algorithm
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
